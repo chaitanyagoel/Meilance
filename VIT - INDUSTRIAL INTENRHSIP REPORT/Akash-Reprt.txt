@@ -1,0 +1,145 @@
+Joined the company & uderstood the environment & had interaction with collegues. All this was virtually as due to covid-19 pandemic
+
+They told to revise all the basic concepts of data analysis & visulaizaton frameworks,technologies,tools & libraries 
+
+They told me to do some basic program in python given by them. They wanted to tets my skills.
+
+They explained me about their project which is on covid-19 data analysis on datasets & analyze & predict the patterns for up-coming future.
+And how this analysis can be helped in how much will it spread & which are most dangerous locations, called as hotspot
+
+To help them in project, they told me to learn some basic tools & technologies,which will be further needed while performing  exploratory data analysis
+& visualize the graphs & charts.
+
+Then I started learning workflow or timeline of Data Analysis,i.e,
+Data Collection
+(EDA)Exploratory data analysis(Feature engineering,Feature Selection,Preprocessing,data cleaning,handling missing values in dataste)
+Model building(ML/DL) & selction suitable algorithm(supervised,un-supervised,reinforement) model for training,testing,Accuracy
+Deployment using AWS & Heroku, everyone can have access & be public
+PPT making, how your prediction can help company from other competitor & benefit & rise in economy
+
+This long time-line took some time to learn & apply in real project. At start it look very hard & difficult to understand.
+I learned little bit of some timeline.
+
+They fianlly assigned me project as i ahve gained some knowledge & understanding of workflow of any project cycle.
+
+At starting, I was not assigned any dataset, So i need to search on internet. For that data collection play role.
+The data I got in documented(JSON/No-SQL-MongoDB) form, means it was in non-structured form
+
+I scraped all the data requied from document using scipy tool/libraris(beautifulsoap,requests,urllib)
+
+After scraping, I need to clean my data & make it in proepr form,means row-column table form(SQL form). 
+For that i need to know how to read & write the non-structured data into more proper form.
+
+After trying many attempts, I finally converted into excel sheet in much more better & proper form. Now all rows & colums have data inside.
+
+But,the data was not good enough to make good prediction from analysis as there are so many noisy data, missing values,ect...
+I have to clean the data & make it in more proper form
+
+Here comes,Feature engineering(Pre-processing) & feature selection, for data cleaning.
+I some libries & removed all the erros,bug,free spaces, missing values,etc..
+
+This step/process covers 80% of major work & it is most important part of timeline.
+If mistake happens, your predicton can go wrong & company may loose benefit.
+
+This can be done throughly with good understanding & analysing the data, what it is saying.
+This process require, numpy,pandas,matplotlib,seaborn & some statistics techniques/topics needed & pick the best approach.
+
+Data cleaning(handling missing vlaues) can be done in 3 ways:
+By taking mean,median,mode of data
+By imputation
+By replacing most repeated values
+
+Till,here I have learned how to collect data(structured or non-structured) form & perform Exploratory data analysis(EDA) i.e., Pre-processing & feature selection, for data cleaning.
+
+Now, I need build model,can be ML model or DL model, which can be helpful in trainig,testing & measuring accuracy of model
+All the data need to be feed to model to predict better accuracy.
+
+I applied all ML algorithmns(SVM,Naive bayes,Linear,Logistic,kNN,Kmeans,Random forest) to measure best accuracy,i.e., which one is providing more accurate & perfect predicton, we choose that algorithm
+Performed some trainig & testing on models & validate the results.
+
+After comparing all models accuracy, ranom forest gives best prediction. So I selected that model
+
+I got to know to some insights of how model works & what are the things required to better results.
+I faced some bugs & errors but collegues helped me to fix bugs.
+
+Now, model prediction was going right & was giving better results for accurate prediction.
+But I tested the code again, if there is some bugs which are efficency of model.
+
+Again, I performed EDA & trained the model & tested against trained mode. And yes there was some percenatge of increment in accuracy.
+Which shows that, there was some bugs & data was still needed to more cleand than previous
+
+This is all due to some colums  & rows of data left uncleaned & needed more analysis of data. So, I got more accuracy than previous result.
+Everyone happy with my work by improving more better & accrate data for prediction.
+
+After EDA & model building, I need to visualize the data, what is it saying?
+What will be covi-19 predictiosn? how much will it spread?
+
+All these questions & thoughts needs to be taken care while visualizing the graphs & charts,which is output of analysis
+So, prepared a list of questions & anaswers to express my understanding & thoughts of visualizations I got & make them understand in best possible way.
+
+They told to make a PPT & include all your process,steps, & timeline & your views,thought. 
+This was require because they want to test my communication skills, how well I can express myself to my colleagues & company benefit.
+
+I made PPT & tried my best to understand them my all the cycle of data analysis & viuslizations of project.
+And also how my accurate predictions can help in determing how much more covid-19 spread in up-coming months.
+
+Till, here I have performed well & gained some idea or workflow of project. And there was imporovement in project.
+It took nearly 20 days to master 80% of work.This is all due to my colleagues who guided & helped me a lot in this journey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
